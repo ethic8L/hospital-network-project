@@ -43,27 +43,9 @@ The network meets requirements for availability, redundancy, and data protection
 - **VoIP Phones**: Cisco voice gateway and IP phones across departments for VoIP communication
 - **End-Devices**: Computers, laptops, and mobile devices for LAN and WLAN connections
 
-### Part 4: Network Configuration
 
-#### Router Configuration Example:
-```shell
-hostname Router1
-enable secret cisco
-line vty 0 4
-password cisco
-login
-exit
-service password-encryption
-interface GigabitEthernet0/2
-ip address 20.20.20.1 255.255.255.252
-no shutdown
-exit
-router ospf 1
-network 20.20.20.0 255.255.255.252
-exit
-access-list 10 permit
+### Part 4: Network Testing
 
-### Part 4: Network Configuration
 
 The network was tested extensively to ensure it met all specified requirements, focusing on scalability, segmentation, and security. Testing included:
 
