@@ -9,7 +9,7 @@ A comprehensive network design for a hospital environment, developed using Cisco
 
 You can download or view the full project from the following link:
 
-- [Download Packet Tracer Project](Company Network Project (EN).pdf)
+- [Download Packet Tracer Project]([Company Network Project (EN).pdf](https://github.com/ethic8L/hospital-network-project/blob/402b35a64eaa58f521c4f434dac753577d43c5e8/Company%20Network%20Project%20(EN).pdf))
 
 ### Project for: Techlead Innovation (fictional company)
 
